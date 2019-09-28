@@ -28,7 +28,7 @@ public class TravelingSalesman {
 		double dist2 = 6750000;
 		double totalDist = 0;
 		boolean hitTop = false;
-		while (counter < 1000) {
+		while (counter < 1000) {  
 
 			if (start == 0) {
 				hitTop = false;
