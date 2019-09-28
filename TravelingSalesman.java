@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class TravelingSalesman {
+public class TravelingSalesman{
 
 	public static ArrayList<University> unis = new ArrayList<>();
 
